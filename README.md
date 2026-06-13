@@ -23,14 +23,17 @@ A GUI-based Python application that automatically extracts email addresses from 
 ```text
 CodeAlpha_EmailExtractor/
 │
+├── screenshots/
+│   ├── home.png
+│   ├── extraction_result.png
+│   └── output_file.png
+│
+├── test_files/
+│   ├── sample.txt
+│   └── extracted_emails.txt
+│
 ├── email_extractor.py
-├── sample.txt
-├── extracted_emails.txt
-├── README.md
-└── screenshots/
-    ├── home.png
-    ├── extraction_result.png
-    └── output_file.png
+└── README.md
 ```
 
 ## ▶️ How to Run
